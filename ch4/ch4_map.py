@@ -19,3 +19,9 @@ for i in store_euros:
 print("Dollers ")
 for i in store_dollers:
     print(i)
+import functools
+letters = ["H", "E", "L", "L", "O"]
+
+
+
+letters = 
